@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Backend focused fullstack developer.  
+I am a backend focused fullstack developer.  
 My most notable quality is the ability to quickly internalize new concepts.
 
 Proficient: Java, Haskell  
