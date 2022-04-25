@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Backend focused fullstack developer.  
+My most notable quality is the ability to quickly internalize new concepts.
+
+Proficient: Java, Haskell  
+[no assistance]  
+Intermediate:  JS, TS, HTML5, CSS (+var)  
+[occasional assistance]   
+Introductory:  C, C++, Python, SQL, R  
+[frequent assistance]
+
 <!--
 **Keremergur/Keremergur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
