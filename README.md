@@ -9,6 +9,8 @@ Proficient: Java, Haskell `no assistance`
 Intermediate:  JS, TS, HTML5, CSS (+var) `occasional assistance`    
 Introductory:  C, C++, Python, SQL, R `frequent assistance` 
 
+Working on a programming language dictionary: The-Book.
+
 <!--
 **Keremergur/Keremergur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
