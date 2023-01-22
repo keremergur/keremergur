@@ -9,11 +9,11 @@ Programming language enthusiast.
 
 Currently studying B.Sc. Computer Science at LMU Munich.
 
-Proficient: Java, Haskell `no assistance`  
-Intermediate:  JS, HTML5, CSS `occasional assistance`    
-Introductory:  C, C++, Python, TS, SQL `frequent assistance` 
+Proficient: C, Java, Haskell `minimal assistance`  
+Intermediate: SQL, JS, HTML5, CSS `occasional assistance`  
+Introductory: C++, Python, TS `frequent assistance` 
 
-Working on a programming language dictionary: The-Book.
+<!-- Working on a programming language dictionary: The-Book. -->
 
 <!--
 **Keremergur/Keremergur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
