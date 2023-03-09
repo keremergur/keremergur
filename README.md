@@ -5,7 +5,7 @@ I am a backend focused fullstack developer.
 My most notable quality is the ability to quickly internalize new concepts.
 -->
 
-Programming language enthusiast.
+<!-- Programming language enthusiast. -->
 
 Currently studying B.Sc. Computer Science at LMU Munich.
 
