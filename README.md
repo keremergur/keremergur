@@ -9,9 +9,9 @@ My most notable quality is the ability to quickly internalize new concepts.
 
 Currently studying B.Sc. Computer Science at LMU Munich.
 
-Proficient: C, Java, Haskell `minimal assistance`  
+<!-- Proficient: C, Java, Haskell `minimal assistance`  
 Intermediate: SQL, JS, HTML5, CSS `occasional assistance`  
-Introductory: C++, Python, TS `frequent assistance` 
+Introductory: C++, Python, TS `frequent assistance`  -->
 
 <!-- Working on a programming language dictionary: The-Book. -->
 
